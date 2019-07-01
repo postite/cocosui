@@ -1,0 +1,7 @@
+-cp src
+-D analyzer-optimize
+-lib coconut.ui
+-lib coconut.vdom
+-main Main
+--js www/main.js
+

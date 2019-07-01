@@ -1,0 +1,19 @@
+{
+    "name": "cocoponents",
+    "url" : "",
+    "license": "MIT",
+    "tags": ["ui","components"],
+    "description": "",
+    "version": "0.0.1",
+    "classPath": "src/",
+    "releasenote": "init",
+    "contributors": ["postite"],
+    "dependencies": {
+        "coconut.ui":"0.9.0",
+        "coconut.vdom":"0.5.0",
+        "tink_hxx":"0.22.1",
+        "tink_syntaxhub":"0.4.3",
+        "tink_core":"1.23.0"
+        
+    }
+}
